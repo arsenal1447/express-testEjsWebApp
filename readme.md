@@ -1,3 +1,5 @@
+study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express.html](http://www.cnblogs.com/zhongweiv/p/nodejs_express.html)
+
 ## 创建一个新项目
 
 	express -e testEjsWebApp
