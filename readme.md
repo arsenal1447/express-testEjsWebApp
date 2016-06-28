@@ -5,6 +5,8 @@
 ![](https://github.com/zxx1988328/nodejs-express-app/blob/master/img/new_project.png)
 
 **cd 项目 执行**
+
+	cd testEjsWebApp
  
 	npm install
 
